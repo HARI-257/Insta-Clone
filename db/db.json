@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/users/john_doe.webp"
+      },
+      "image": "src/assets/posts/sunset_waterfall.webp",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "emma_art",
+        "profile_pic": "src/assets/users/emma_art.jpg"
+      },
+      "image": "src/assets/posts/art_collage.jpeg",
+      "caption": "My latest artwork 🎨 #Creativity #DigitalArt",
+      "likes": 95,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "This is so cool!"
+        },
+        {
+          "user": "sarah_m",
+          "comment": "Love your style 💖"
+        }
+      ],
+      "timestamp": "2025-03-05T09:15:00Z"
+    },
+    {
+  "id": 3,
+  "user": {
+    "id": 103,
+    "username": "travel_with_amy",
+    "profile_pic": "src/assets/users/amy.jpeg"
+  },
+  "image": "src/assets/posts/mountain_hike.jpeg",
+  "caption": "Conquered the peaks! 🏔️ #HikingAdventures #NatureLover",
+  "likes": 214,
+  "comments": [
+    {
+      "user": "nature_guy",
+      "comment": "Looks breathtaking!"
+    },
+    {
+      "user": "jenny_321",
+      "comment": "You're such an inspiration ❤️"
+    }
+  ],
+  "timestamp": "2025-04-20T17:45:00Z"
+}
+  ],
+  "profile":{
+        "id": 296,
+        "username": "Harikrishnan",
+        "profile_pic": "src/assets/users/john_doe.webp"
+      },
+      "suggestions":[
+      {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/users/john_doe.webp"
+      },
+      {
+        "id": 102,
+        "username": "emma_art",
+        "profile_pic": "src/assets/users/emma_art.jpg"
+      },
+      {
+    "id": 103,
+    "username": "travel_with_amy",
+    "profile_pic": "src/assets/users/amy.jpeg"
+      },
+      {
+    "id": 104,
+    "username": "travel_amy",
+    "profile_pic": "src/assets/users/amy.jpeg"
+      },
+      {
+    "id": 105,
+    "username": "_amy",
+    "profile_pic": "src/assets/users/amy.jpeg"
+      }
+    ],
+    "story": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/users/john_doe.webp"
+      },
+      "image": "/story/s1.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "emma_art",
+        "profile_pic": "src/assets/users/emma_art.jpg"
+      },
+      "image": "/story/s2.webp"
+    },
+    {
+  "id": 3,
+  "user": {
+    "id": 103,
+    "username": "travel_with_amy",
+    "profile_pic": "src/assets/users/amy.jpeg"
+  },
+  "image": "/story/s3.png"
+}
+  ]
+    
+     
+
+}
